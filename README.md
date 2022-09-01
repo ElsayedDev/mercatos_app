@@ -35,7 +35,7 @@ A short videos project for ball sports and other sports.
 
 ### Project UI
 
-![Mercatos_app_ui](https://raw.githubusercontent.com/uni-devs/mercatos_app/dev/image.png)
+![Mercatos_app_ui](https://raw.githubusercontent.com/elsayeddev/mercatos_app/main/image.png)
 
 ----------
 
